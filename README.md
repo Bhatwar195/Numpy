@@ -1,4 +1,4 @@
-# NumPy Practice Repository
+# NumPy Practice Repository   
 
 This repository contains Jupyter notebooks for practicing **NumPy**, focusing on core concepts used in numerical computing, data analysis, and machine learning.
 
