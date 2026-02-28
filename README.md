@@ -12,6 +12,7 @@ This repository contains Jupyter notebooks for practicing **NumPy**, focusing on
 - Python
 - NumPy
 - Jupyter Notebook
+- vs code
 
 ## Purpose
 To build a strong foundation in NumPy for data analysis and machine learning tasks.
